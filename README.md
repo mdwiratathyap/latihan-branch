@@ -1,3 +1,3 @@
 # latihan-branch
 
-ini adalah repo untuk latihan branch setelah dimerge
+ini adalah repo untuk latihan branch ditulis di development
